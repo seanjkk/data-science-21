@@ -1,4 +1,3 @@
-# place your code to clean up the data file below.
 
 import csv
 import pandas as pd
