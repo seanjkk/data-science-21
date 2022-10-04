@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,rating,kid_friendly
+1,Russel-Labadie,turkish,medium,staten,19:01,3,TRUE
+2,Kutch LLC,vietnamese,expensive,brooklyn,19:00,2,TRUE
+3,Wiza-Brekke,japanese,medium,manhattan,20:43,5,TRUE
+4,Rogahn and Sons,vietnamese,cheap,brooklyn,20:21,5,TRUE
+5,"Dicki, Turcotte and Cormier",italian,medium,staten,17:01,2,TRUE
+6,Wolff-Koch,american,cheap,bronx,18:19,3,TRUE
+7,Farrell Inc,italian,medium,bronx,17:09,4,FALSE
+8,Kassulke LLC,italian,expensive,bronx,18:48,1,TRUE
+9,"Quigley, Schultz and McDermott",vietnamese,expensive,brooklyn,18:59,4,TRUE
+10,Fisher Inc,french,cheap,brooklyn,21:55,4,FALSE
+11,Considine Inc,thai,cheap,staten,18:52,2,TRUE
+12,Hansen LLC,vietnamese,expensive,bronx,19:08,3,FALSE
+13,Hodkiewicz-Frami,thai,medium,manhattan,20:24,2,FALSE
+14,Moen-Frami,korean,expensive,queens,21:59,2,TRUE
+15,Watsica-Labadie,korean,expensive,manhattan,17:49,1,FALSE
+16,Ankunding-Prosacco,korean,cheap,queens,19:48,3,TRUE
+17,Orn and Sons,japanese,medium,manhattan,17:28,5,FALSE
+18,Paucek-Marquardt,turkish,medium,queens,18:59,4,TRUE
+19,Leannon Group,vietnamese,cheap,queens,19:32,3,TRUE
+20,Walsh and Sons,american,expensive,brooklyn,20:52,3,FALSE
+21,Gutmann Group,chinese,expensive,bronx,21:04,4,FALSE
+22,"O'Hara, McLaughlin and Rice",french,expensive,manhattan,18:03,3,TRUE
+23,"Wuckert, Kertzmann and Tremblay",turkish,cheap,manhattan,19:19,2,FALSE
+24,Schaden-Gleason,japanese,expensive,manhattan,18:44,1,TRUE
+25,Schowalter-Hyatt,american,cheap,manhattan,17:27,2,TRUE
+26,"Boyle, Weimann and Wolf",american,medium,queens,21:10,2,FALSE
+27,"Moen, Donnelly and Herman",italian,cheap,bronx,19:43,5,FALSE
+28,Rath and Sons,japanese,expensive,manhattan,18:38,3,FALSE
+29,"Huel, Conn and Kuhlman",french,medium,brooklyn,19:39,1,TRUE
+30,Weber Inc,vietnamese,medium,bronx,17:08,3,TRUE
+31,Satterfield-Runolfsdottir,turkish,cheap,brooklyn,17:52,5,FALSE
+32,Schmeler Group,vietnamese,cheap,queens,20:52,1,TRUE
+33,Davis Group,korean,medium,staten,18:23,1,FALSE
+34,Green LLC,turkish,expensive,manhattan,17:52,5,TRUE
+35,Langosh Inc,turkish,cheap,brooklyn,18:56,1,FALSE
+36,Runte-Corwin,vietnamese,medium,brooklyn,20:39,3,FALSE
+37,Lueilwitz Inc,american,expensive,bronx,21:22,3,FALSE
+38,Veum-Hayes,thai,medium,staten,21:47,3,FALSE
+39,Tromp-Schaefer,french,cheap,queens,18:37,5,TRUE
+40,Kub-Krajcik,vietnamese,medium,brooklyn,19:47,5,TRUE
+41,Hermann-Nolan,french,cheap,brooklyn,20:59,3,FALSE
+42,Ward Inc,thai,expensive,queens,21:30,5,TRUE
+43,Lebsack Inc,korean,cheap,bronx,19:21,3,FALSE
+44,Jacobi and Sons,french,cheap,bronx,21:30,1,TRUE
+45,Ledner Inc,vietnamese,cheap,staten,19:45,1,TRUE
+46,Murazik-Schulist,vietnamese,cheap,queens,18:32,4,TRUE
+47,"Kshlerin, Williamson and Predovic",chinese,cheap,bronx,18:55,1,FALSE
+48,Schulist-Ziemann,japanese,medium,staten,18:25,4,FALSE
+49,Nader-Koch,vietnamese,expensive,manhattan,21:56,2,TRUE
+50,"Kuhlman, Stark and Gleason",japanese,cheap,queens,18:31,3,FALSE
+51,"Kassulke, Tromp and Erdman",korean,medium,staten,21:57,3,TRUE
+52,Wisozk-McKenzie,italian,expensive,brooklyn,21:08,3,TRUE
+53,"Konopelski, Ward and Christiansen",korean,expensive,brooklyn,19:19,4,FALSE
+54,Strosin-Crist,italian,cheap,queens,17:40,4,FALSE
+55,Schinner-Rippin,japanese,expensive,staten,21:12,1,TRUE
+56,"Padberg, Murphy and Wehner",vietnamese,expensive,bronx,18:12,4,TRUE
+57,Krajcik-Bergnaum,korean,cheap,brooklyn,17:40,2,TRUE
+58,Dach-Zulauf,american,medium,brooklyn,20:50,3,FALSE
+59,Lindgren and Sons,vietnamese,medium,manhattan,18:57,5,FALSE
+60,Kunde-Toy,korean,cheap,manhattan,17:53,5,FALSE
+61,Blanda-Renner,american,expensive,bronx,17:55,3,TRUE
+62,Gutkowski-King,french,medium,manhattan,17:52,2,TRUE
+63,Lebsack Inc,french,cheap,manhattan,17:18,4,FALSE
+64,"Cormier, Lueilwitz and Morar",turkish,cheap,bronx,21:24,2,TRUE
+65,Abshire Inc,french,cheap,bronx,18:08,3,FALSE
+66,"DuBuque, Kilback and Steuber",turkish,medium,staten,18:19,4,FALSE
+67,Macejkovic and Sons,turkish,cheap,bronx,18:17,4,TRUE
+68,Anderson LLC,american,medium,manhattan,17:07,1,FALSE
+69,Kreiger Inc,japanese,medium,queens,19:14,2,FALSE
+70,Gutkowski Inc,chinese,cheap,staten,18:26,3,TRUE
+71,Stamm Group,chinese,cheap,queens,20:18,2,FALSE
+72,Smitham and Sons,american,expensive,manhattan,19:05,1,FALSE
+73,Shanahan-Runolfsson,japanese,cheap,bronx,20:16,3,TRUE
+74,Runolfsson LLC,vietnamese,medium,bronx,20:33,2,FALSE
+75,"Collier, Reichert and Monahan",turkish,cheap,staten,18:16,3,TRUE
+76,"Schiller, Deckow and Breitenberg",french,cheap,bronx,19:55,5,TRUE
+77,Rau LLC,french,cheap,queens,18:36,1,TRUE
+78,Macejkovic LLC,korean,medium,brooklyn,21:00,1,FALSE
+79,Smitham-Christiansen,korean,medium,bronx,18:40,3,TRUE
+80,"Legros, Stokes and Nicolas",american,cheap,brooklyn,21:20,1,TRUE
+81,Wisozk LLC,japanese,cheap,staten,17:18,1,FALSE
+82,Hoeger-Kulas,american,medium,manhattan,17:51,1,FALSE
+83,Rogahn-Hessel,american,cheap,manhattan,19:29,2,TRUE
+84,Gaylord-Cremin,korean,cheap,manhattan,18:07,5,TRUE
+85,Nolan-Christiansen,korean,medium,staten,19:03,4,TRUE
+86,"Konopelski, Klein and Corwin",turkish,medium,manhattan,20:56,1,TRUE
+87,"Waelchi, Waelchi and Oberbrunner",italian,cheap,bronx,18:44,5,FALSE
+88,Prohaska Group,italian,expensive,brooklyn,19:59,2,TRUE
+89,"Cremin, Murazik and Rodriguez",japanese,cheap,brooklyn,17:57,1,FALSE
+90,"Jerde, Wuckert and Kunze",american,medium,queens,17:53,4,TRUE
+91,Bednar-Dickens,korean,medium,bronx,18:43,2,FALSE
+92,Armstrong-Osinski,thai,cheap,queens,20:15,4,FALSE
+93,"Senger, Kihn and Lebsack",american,expensive,staten,21:05,4,FALSE
+94,Herzog and Sons,american,medium,brooklyn,19:08,4,TRUE
+95,McDermott-Buckridge,italian,medium,bronx,21:20,4,FALSE
+96,"O'Reilly, Hilpert and Erdman",japanese,cheap,queens,21:37,2,FALSE
+97,"Koss, Sanford and Hoppe",vietnamese,cheap,staten,17:57,2,TRUE
+98,"Lueilwitz, Kertzmann and Douglas",french,medium,bronx,17:16,2,FALSE
+99,"Satterfield, Johnston and Stokes",french,expensive,queens,18:52,2,TRUE
+100,Weber-Mosciski,american,cheap,brooklyn,19:11,2,TRUE
+101,Waters LLC,french,medium,manhattan,21:25,4,FALSE
+102,Hilll-Sawayn,american,cheap,bronx,21:50,5,FALSE
+103,"Kshlerin, Breitenberg and Schimmel",american,cheap,staten,20:11,5,TRUE
+104,"Bergnaum, Hintz and Veum",turkish,medium,bronx,21:23,4,FALSE
+105,"VonRueden, Dickinson and Marvin",italian,cheap,staten,19:43,3,TRUE
+106,Cormier Inc,chinese,expensive,staten,21:50,5,TRUE
+107,"Skiles, Ryan and Rempel",chinese,medium,bronx,19:29,1,TRUE
+108,McDermott and Sons,korean,expensive,brooklyn,19:37,2,TRUE
+109,Kovacek-Bogisich,italian,expensive,manhattan,18:06,4,TRUE
+110,"Koepp, Langosh and Moen",chinese,expensive,brooklyn,20:43,1,FALSE
+111,Lowe Group,korean,cheap,brooklyn,18:56,1,FALSE
+112,Kub-Hodkiewicz,italian,cheap,brooklyn,17:08,2,FALSE
+113,"Gutmann, Quigley and Crist",italian,medium,queens,21:12,5,FALSE
+114,Haag-Auer,turkish,cheap,queens,18:04,4,FALSE
+115,Walsh Inc,korean,medium,queens,20:48,3,TRUE
+116,Stracke Inc,italian,cheap,brooklyn,21:12,1,FALSE
+117,Nikolaus-Hessel,french,medium,queens,21:56,4,FALSE
+118,"Aufderhar, Schiller and Weissnat",vietnamese,medium,staten,19:50,5,TRUE
+119,Lehner-Veum,korean,cheap,queens,21:15,3,TRUE
+120,Keeling and Sons,korean,cheap,staten,19:43,5,TRUE
+121,Cormier-Balistreri,turkish,cheap,queens,17:31,2,FALSE
+122,Cartwright and Sons,french,cheap,manhattan,17:08,4,FALSE
+123,"Hansen, Schroeder and Steuber",vietnamese,expensive,staten,18:07,3,FALSE
+124,Pagac-Hodkiewicz,american,cheap,brooklyn,20:45,2,TRUE
+125,Kunde-Gerlach,korean,cheap,staten,19:17,2,FALSE
+126,Bailey-Koelpin,italian,medium,staten,19:20,1,TRUE
+127,Christiansen LLC,french,expensive,queens,18:48,5,FALSE
+128,Ernser Group,italian,medium,queens,18:15,3,FALSE
+129,Wilderman LLC,chinese,expensive,queens,18:04,4,TRUE
+130,Boyer-Schinner,japanese,cheap,manhattan,18:03,1,FALSE
+131,Schmitt-Runte,vietnamese,medium,queens,20:01,4,FALSE
+132,Senger-Kilback,french,medium,queens,21:03,3,FALSE
+133,Hickle Group,american,expensive,bronx,19:33,2,TRUE
+134,Collins-McClure,italian,cheap,manhattan,19:32,2,TRUE
+135,Gutkowski LLC,korean,cheap,queens,20:00,2,FALSE
+136,Schmeler Group,chinese,cheap,staten,17:54,2,TRUE
+137,Reinger-Lebsack,vietnamese,expensive,staten,17:06,4,FALSE
+138,Koss-Wehner,japanese,expensive,bronx,17:24,2,FALSE
+139,"Hoeger, Powlowski and Stracke",japanese,cheap,queens,21:36,5,TRUE
+140,Rowe-Graham,vietnamese,cheap,bronx,20:58,4,TRUE
+141,Kessler Inc,french,medium,bronx,17:34,1,FALSE
+142,Romaguera Inc,thai,medium,manhattan,19:44,1,TRUE
+143,"Tillman, Little and Nicolas",french,cheap,bronx,18:05,1,FALSE
+144,"Cartwright, Lemke and Zulauf",vietnamese,cheap,bronx,18:14,4,FALSE
+145,Goldner-Medhurst,french,cheap,staten,17:46,1,FALSE
+146,Schmidt-Crona,american,cheap,queens,20:50,5,FALSE
+147,Braun Group,french,expensive,manhattan,18:35,3,TRUE
+148,Raynor Inc,turkish,cheap,bronx,17:59,5,TRUE
+149,"Schulist, Kuhlman and Dach",korean,cheap,brooklyn,20:10,5,FALSE
+150,"Morissette, Spinka and Murray",korean,cheap,manhattan,20:35,1,TRUE
+151,Daugherty-VonRueden,thai,expensive,bronx,20:56,4,TRUE
+152,Herman-Kuphal,chinese,expensive,queens,21:31,2,TRUE
+153,"Goldner, Flatley and Beahan",korean,cheap,staten,17:50,4,TRUE
+154,Doyle Group,chinese,medium,manhattan,18:23,5,FALSE
+155,Morissette Group,vietnamese,cheap,queens,18:30,5,FALSE
+156,Conroy and Sons,japanese,cheap,staten,19:34,2,FALSE
+157,Harris-Glover,american,expensive,staten,19:02,3,TRUE
+158,Cassin-Jakubowski,korean,cheap,staten,17:13,2,FALSE
+159,Boyer-Predovic,vietnamese,medium,brooklyn,21:36,4,TRUE
+160,Gleichner-Ullrich,french,cheap,manhattan,19:45,1,TRUE
+161,Mills-Fay,japanese,medium,brooklyn,17:47,2,TRUE
+162,"Jacobi, Nikolaus and Wuckert",turkish,expensive,queens,21:28,3,FALSE
+163,"Lemke, Luettgen and Bosco",italian,cheap,staten,19:26,1,TRUE
+164,Daugherty LLC,thai,medium,staten,20:28,4,FALSE
+165,Gerhold-Gerhold,italian,medium,staten,20:32,1,TRUE
+166,Jacobs-Lind,italian,expensive,staten,20:27,5,TRUE
+167,Weissnat Inc,chinese,cheap,queens,20:13,3,TRUE
+168,Gutmann-Okuneva,american,expensive,bronx,21:25,4,TRUE
+169,Kemmer and Sons,korean,medium,brooklyn,21:54,4,FALSE
+170,Weber Group,turkish,medium,manhattan,18:03,4,TRUE
+171,"Treutel, Orn and Runte",american,expensive,queens,19:17,3,FALSE
+172,"Hartmann, Stroman and Beer",thai,expensive,staten,19:49,1,FALSE
+173,"Breitenberg, Keebler and Rippin",turkish,medium,bronx,19:07,5,FALSE
+174,Moore-McGlynn,french,medium,brooklyn,17:14,4,FALSE
+175,Ferry Group,american,expensive,brooklyn,18:22,5,FALSE
+176,"Reinger, Hirthe and Stokes",italian,cheap,bronx,17:16,1,FALSE
+177,"Nitzsche, Casper and Keeling",chinese,medium,queens,21:54,3,FALSE
+178,"Feest, Wyman and Hilll",italian,expensive,bronx,21:40,5,TRUE
+179,Larson and Sons,italian,medium,staten,18:23,4,FALSE
+180,Kihn Inc,vietnamese,expensive,manhattan,18:31,4,TRUE
+181,DuBuque-Spencer,vietnamese,expensive,bronx,20:17,2,FALSE
+182,Hamill Group,american,medium,queens,17:40,3,FALSE
+183,Dickens Group,italian,medium,bronx,20:00,4,FALSE
+184,Bergstrom-McDermott,french,cheap,staten,20:14,3,FALSE
+185,Stehr-Rutherford,korean,cheap,bronx,18:25,5,TRUE
+186,Bahringer Group,turkish,cheap,brooklyn,20:54,1,TRUE
+187,Morar Group,chinese,medium,bronx,18:28,3,FALSE
+188,Kulas and Sons,vietnamese,cheap,bronx,21:40,1,FALSE
+189,Kiehn-MacGyver,chinese,cheap,queens,20:52,3,TRUE
+190,"Mohr, Wunsch and Watsica",japanese,expensive,staten,17:41,4,TRUE
+191,Rempel Group,vietnamese,expensive,staten,20:18,1,FALSE
+192,"O'Keefe, Thompson and Walter",french,cheap,staten,21:23,1,FALSE
+193,"Heidenreich, Bernhard and Kunde",vietnamese,cheap,manhattan,19:31,1,FALSE
+194,"Cronin, Klocko and Grant",french,medium,queens,18:05,5,TRUE
+195,Buckridge-Moen,chinese,medium,brooklyn,17:23,4,FALSE
+196,Schultz and Sons,american,expensive,staten,17:28,5,TRUE
+197,Luettgen Group,french,expensive,staten,19:51,2,TRUE
+198,"Lockman, O'Reilly and Schowalter",american,medium,queens,20:47,5,FALSE
+199,Spencer-Turcotte,french,medium,staten,18:19,1,FALSE
+200,Hayes Group,korean,medium,bronx,21:48,1,FALSE
+201,Berge and Sons,turkish,cheap,bronx,20:52,2,FALSE
+202,Kohler-Lockman,french,expensive,staten,18:00,5,TRUE
+203,Parisian-Ernser,chinese,cheap,staten,18:32,3,FALSE
+204,Tromp Inc,thai,expensive,manhattan,18:50,2,TRUE
+205,"O'Hara, Towne and Cronin",thai,expensive,brooklyn,18:53,3,FALSE
+206,"Gaylord, Dare and Gulgowski",turkish,cheap,staten,21:40,5,FALSE
+207,"Deckow, Schaefer and Cronin",turkish,cheap,brooklyn,18:07,1,FALSE
+208,Klocko Inc,vietnamese,cheap,queens,21:11,4,FALSE
+209,Krajcik and Sons,thai,medium,bronx,21:06,4,FALSE
+210,Bode Group,thai,expensive,manhattan,18:34,4,FALSE
+211,"Murphy, Doyle and Cassin",thai,cheap,bronx,17:21,3,FALSE
+212,Botsford Group,american,medium,brooklyn,21:44,3,FALSE
+213,"Wisoky, Gislason and Rosenbaum",italian,cheap,manhattan,17:24,1,FALSE
+214,Schulist-Hintz,chinese,medium,bronx,21:16,3,FALSE
+215,Hermann Group,japanese,expensive,queens,17:20,2,TRUE
+216,Lakin-Franecki,chinese,cheap,staten,20:35,4,FALSE
+217,"Jacobson, Wyman and Lubowitz",turkish,cheap,brooklyn,21:48,1,FALSE
+218,Kihn LLC,thai,expensive,brooklyn,20:30,3,TRUE
+219,Nitzsche-Swift,italian,expensive,manhattan,19:00,3,TRUE
+220,Farrell Inc,korean,medium,staten,19:40,3,TRUE
+221,Rowe-King,thai,expensive,bronx,19:44,4,FALSE
+222,"Batz, Fisher and Kunde",korean,expensive,staten,18:54,3,FALSE
+223,Durgan-Hilll,turkish,expensive,brooklyn,21:45,2,TRUE
+224,Wehner-Dickens,korean,cheap,bronx,20:43,4,FALSE
+225,Bruen and Sons,chinese,expensive,staten,19:47,5,FALSE
+226,Mueller and Sons,turkish,medium,bronx,21:27,3,FALSE
+227,"Leuschke, Jacobs and Heathcote",vietnamese,cheap,manhattan,18:16,2,FALSE
+228,Bode-Towne,japanese,medium,manhattan,17:45,2,TRUE
+229,Connelly-Mayert,korean,expensive,staten,17:41,3,TRUE
+230,"Jerde, Pouros and Ratke",italian,medium,staten,18:33,2,FALSE
+231,Schulist Group,american,expensive,queens,17:07,5,TRUE
+232,Jakubowski-Jakubowski,korean,medium,manhattan,21:11,1,FALSE
+233,Olson-Lehner,chinese,medium,brooklyn,20:07,1,FALSE
+234,"Harber, Harris and Barrows",chinese,cheap,staten,19:22,2,TRUE
+235,Ernser-King,japanese,expensive,bronx,18:04,4,FALSE
+236,"Lueilwitz, Lynch and Hessel",korean,cheap,queens,19:55,3,FALSE
+237,Kutch Inc,vietnamese,medium,queens,19:13,4,FALSE
+238,Johns-Schuster,italian,medium,manhattan,17:22,3,FALSE
+239,"Christiansen, Wuckert and Corkery",turkish,expensive,manhattan,17:50,5,TRUE
+240,Olson Group,italian,medium,bronx,17:10,5,FALSE
+241,Brekke-Rogahn,thai,medium,bronx,18:47,4,FALSE
+242,Fahey and Sons,thai,expensive,queens,17:38,1,FALSE
+243,Schinner and Sons,chinese,medium,bronx,19:55,5,FALSE
+244,Kovacek-Funk,french,cheap,staten,18:34,4,TRUE
+245,Greenholt Inc,turkish,cheap,manhattan,17:14,3,TRUE
+246,Rogahn-Dooley,korean,medium,bronx,20:40,3,TRUE
+247,Bogisich Inc,turkish,expensive,bronx,20:58,5,FALSE
+248,Marquardt-Yundt,american,medium,manhattan,17:13,3,TRUE
+249,"Reichert, Brakus and Hermann",korean,cheap,staten,20:43,4,TRUE
+250,"Beer, Senger and Frami",turkish,medium,queens,18:00,2,TRUE
+251,Breitenberg-Quigley,japanese,cheap,staten,18:32,1,TRUE
+252,Stamm-Brown,vietnamese,medium,brooklyn,19:54,5,FALSE
+253,"Carter, Funk and Lang",american,medium,queens,18:31,5,FALSE
+254,"Fritsch, Powlowski and Stanton",italian,expensive,bronx,19:53,4,TRUE
+255,"Becker, Cummings and Leuschke",vietnamese,cheap,brooklyn,19:15,5,TRUE
+256,Vandervort and Sons,thai,cheap,brooklyn,18:52,5,TRUE
+257,Crona LLC,turkish,cheap,queens,20:14,3,TRUE
+258,Berge-Gusikowski,chinese,medium,bronx,18:32,5,TRUE
+259,Kautzer and Sons,japanese,cheap,queens,21:47,4,FALSE
+260,Prosacco and Sons,american,expensive,bronx,19:13,2,TRUE
+261,Borer-Keebler,italian,expensive,bronx,19:56,2,FALSE
+262,Hegmann LLC,korean,expensive,brooklyn,21:59,4,FALSE
+263,"Hintz, Cole and Green",korean,cheap,brooklyn,21:35,5,FALSE
+264,Grimes-McCullough,thai,medium,staten,21:17,1,TRUE
+265,"Schmidt, Kovacek and Upton",american,expensive,brooklyn,17:31,5,FALSE
+266,Lowe-Skiles,korean,expensive,staten,17:09,5,FALSE
+267,"Beier, Walker and Hintz",chinese,expensive,staten,20:07,2,TRUE
+268,Lang-Trantow,thai,medium,queens,20:30,1,FALSE
+269,Fadel-Runolfsson,french,medium,brooklyn,18:17,4,TRUE
+270,Weimann-Herman,french,expensive,brooklyn,17:27,4,TRUE
+271,Doyle Group,american,expensive,queens,19:52,3,FALSE
+272,Stiedemann-Denesik,french,expensive,manhattan,19:38,2,TRUE
+273,"Roob, Leannon and Hartmann",italian,cheap,brooklyn,20:03,1,TRUE
+274,Dare-O'Conner,italian,medium,bronx,18:56,2,TRUE
+275,"Gulgowski, Sauer and Halvorson",italian,medium,queens,20:31,4,FALSE
+276,"Shields, Johnston and Hand",italian,cheap,brooklyn,18:19,5,FALSE
+277,McDermott LLC,vietnamese,cheap,queens,20:05,2,TRUE
+278,Green Inc,turkish,expensive,staten,17:45,1,TRUE
+279,Powlowski-O'Kon,turkish,expensive,brooklyn,20:14,5,TRUE
+280,Powlowski-Becker,french,expensive,staten,17:42,5,FALSE
+281,Pouros-Buckridge,thai,medium,bronx,20:35,1,TRUE
+282,"Schmeler, Rolfson and Collins",turkish,medium,brooklyn,20:56,2,FALSE
+283,Oberbrunner-Botsford,japanese,cheap,staten,17:49,3,TRUE
+284,"Wiegand, Farrell and Ruecker",thai,expensive,brooklyn,19:31,3,TRUE
+285,Herman-Oberbrunner,vietnamese,expensive,queens,17:35,5,TRUE
+286,"Howell, Keeling and Abernathy",american,medium,brooklyn,20:04,5,FALSE
+287,Douglas Group,japanese,expensive,queens,21:32,1,TRUE
+288,Parker Group,turkish,cheap,queens,20:23,4,FALSE
+289,Lindgren LLC,american,cheap,manhattan,19:08,5,FALSE
+290,Fisher-Rempel,vietnamese,cheap,brooklyn,17:32,4,FALSE
+291,Maggio-Rath,vietnamese,cheap,staten,19:20,2,FALSE
+292,Schmidt-Fadel,vietnamese,expensive,brooklyn,19:42,4,FALSE
+293,Emard-Glover,korean,medium,bronx,18:57,5,TRUE
+294,Windler-Connelly,vietnamese,cheap,brooklyn,21:34,1,FALSE
+295,"Homenick, Parisian and Jast",american,cheap,bronx,21:03,3,TRUE
+296,Monahan-Funk,chinese,cheap,brooklyn,21:45,2,TRUE
+297,"Beatty, Pouros and Ullrich",american,cheap,queens,18:29,5,FALSE
+298,Kozey-Wintheiser,thai,cheap,brooklyn,17:25,3,FALSE
+299,"Mueller, Nikolaus and Walter",italian,medium,manhattan,21:42,4,TRUE
+300,Walker-Yost,chinese,medium,brooklyn,20:55,1,TRUE
+301,Hettinger-Dicki,american,expensive,brooklyn,17:20,4,TRUE
+302,"Medhurst, Lynch and Wunsch",italian,medium,bronx,17:47,5,FALSE
+303,"Berge, Walker and Senger",italian,expensive,bronx,20:26,4,FALSE
+304,Mitchell and Sons,korean,expensive,manhattan,19:13,1,TRUE
+305,"Klocko, Halvorson and Fisher",chinese,cheap,staten,21:09,1,TRUE
+306,Goyette-Ortiz,turkish,medium,staten,19:03,5,TRUE
+307,West-Cartwright,vietnamese,medium,bronx,21:32,4,FALSE
+308,Boyle and Sons,vietnamese,medium,staten,21:18,1,TRUE
+309,King-Sipes,italian,expensive,bronx,17:10,4,TRUE
+310,"Turcotte, Pollich and Roberts",french,medium,staten,20:39,3,FALSE
+311,"Parisian, Torp and Rath",korean,cheap,manhattan,18:04,3,TRUE
+312,Harris and Sons,thai,medium,bronx,19:27,2,TRUE
+313,Konopelski Inc,turkish,expensive,queens,21:33,2,TRUE
+314,Renner LLC,chinese,expensive,manhattan,19:29,4,TRUE
+315,Runolfsdottir-Jakubowski,italian,cheap,queens,18:44,4,FALSE
+316,"Grady, Kirlin and Becker",thai,cheap,manhattan,18:36,1,TRUE
+317,"Borer, Prosacco and Conroy",japanese,cheap,brooklyn,18:27,4,TRUE
+318,Koch LLC,vietnamese,expensive,brooklyn,19:58,3,TRUE
+319,Rutherford-Block,vietnamese,medium,staten,19:46,4,FALSE
+320,Kihn-Champlin,japanese,medium,queens,19:28,3,FALSE
+321,Kulas-Smith,italian,cheap,brooklyn,21:22,2,FALSE
+322,Prohaska Group,turkish,cheap,staten,21:54,1,TRUE
+323,Jakubowski-Treutel,korean,cheap,manhattan,17:55,5,FALSE
+324,Larson-Moen,american,medium,staten,21:05,4,TRUE
+325,Mitchell-Lockman,american,expensive,bronx,21:44,1,FALSE
+326,Lubowitz-Upton,vietnamese,expensive,bronx,20:13,1,FALSE
+327,Bradtke-Schamberger,vietnamese,medium,manhattan,19:19,1,TRUE
+328,Williamson Inc,chinese,expensive,queens,17:50,3,TRUE
+329,Schmidt LLC,korean,expensive,manhattan,19:13,4,TRUE
+330,"Lehner, Ziemann and Wuckert",korean,cheap,manhattan,17:42,3,FALSE
+331,Gottlieb Inc,french,cheap,staten,20:39,3,TRUE
+332,"Medhurst, Homenick and Mertz",italian,expensive,bronx,20:58,5,FALSE
+333,"Frami, Franecki and Douglas",vietnamese,expensive,queens,19:09,5,TRUE
+334,Sanford-Ziemann,japanese,expensive,staten,20:30,3,FALSE
+335,Satterfield Inc,italian,expensive,bronx,20:19,5,TRUE
+336,"Bailey, Kuhic and Bailey",french,expensive,queens,19:37,4,TRUE
+337,Robel-Blick,italian,cheap,queens,18:54,1,TRUE
+338,"McDermott, Kemmer and Balistreri",thai,medium,bronx,20:49,3,FALSE
+339,Fisher Inc,italian,medium,manhattan,18:58,4,TRUE
+340,"Hegmann, Blanda and Dietrich",american,expensive,manhattan,18:39,2,TRUE
+341,Bernhard-Reichert,thai,expensive,manhattan,17:56,2,FALSE
+342,"Kuhlman, Gerhold and Monahan",korean,expensive,queens,17:58,2,TRUE
+343,Weissnat-Gibson,korean,expensive,brooklyn,17:59,4,FALSE
+344,"Mertz, Nolan and Luettgen",turkish,medium,queens,18:55,4,TRUE
+345,Huels and Sons,korean,cheap,brooklyn,19:32,2,FALSE
+346,Crist-Volkman,american,medium,manhattan,19:22,3,TRUE
+347,"Wuckert, Runolfsdottir and Jacobson",chinese,expensive,staten,17:24,4,TRUE
+348,Osinski-Price,turkish,expensive,manhattan,20:27,2,TRUE
+349,"Baumbach, Donnelly and Deckow",american,expensive,bronx,19:02,5,TRUE
+350,"Padberg, Schaefer and Padberg",italian,cheap,bronx,20:54,2,FALSE
+351,"Terry, Mraz and Purdy",thai,medium,manhattan,20:49,5,FALSE
+352,Ruecker and Sons,italian,expensive,brooklyn,17:31,5,TRUE
+353,Reichert and Sons,korean,medium,staten,20:29,5,TRUE
+354,Ledner Inc,italian,medium,manhattan,19:05,3,TRUE
+355,Abernathy-Hyatt,chinese,cheap,staten,20:51,3,FALSE
+356,Abbott LLC,french,expensive,queens,20:54,3,TRUE
+357,"Maggio, Larson and Lueilwitz",thai,cheap,staten,17:52,3,TRUE
+358,"Moen, Block and Murazik",chinese,medium,brooklyn,20:32,1,TRUE
+359,Torphy-Sawayn,american,expensive,brooklyn,21:59,2,FALSE
+360,Wiza and Sons,japanese,medium,manhattan,17:02,1,FALSE
+361,Heathcote and Sons,chinese,expensive,brooklyn,19:57,3,TRUE
+362,Frami LLC,italian,cheap,manhattan,17:37,2,FALSE
+363,Hauck and Sons,vietnamese,cheap,staten,19:27,2,TRUE
+364,Aufderhar Inc,chinese,medium,bronx,20:36,2,FALSE
+365,"Ankunding, Buckridge and Feeney",american,cheap,manhattan,18:39,3,TRUE
+366,Greenholt-Ruecker,turkish,expensive,queens,19:32,4,TRUE
+367,"O'Keefe, Upton and Oberbrunner",japanese,cheap,staten,20:05,2,FALSE
+368,Deckow and Sons,vietnamese,expensive,bronx,21:46,5,TRUE
+369,Sanford-Mohr,american,cheap,brooklyn,21:37,1,TRUE
+370,"Purdy, Bartoletti and Hirthe",italian,expensive,bronx,21:35,3,TRUE
+371,Little-Keeling,vietnamese,cheap,manhattan,17:08,5,TRUE
+372,"Schuppe, Windler and Hauck",french,cheap,brooklyn,18:15,3,FALSE
+373,"Gislason, Herman and Lockman",chinese,expensive,brooklyn,19:36,3,FALSE
+374,Sauer-Mosciski,korean,expensive,manhattan,17:41,1,TRUE
+375,Mertz-Reichert,thai,cheap,brooklyn,19:43,3,FALSE
+376,"Hayes, Sawayn and Ortiz",thai,cheap,staten,18:10,4,TRUE
+377,Stokes-Stanton,korean,expensive,bronx,18:51,2,TRUE
+378,Robel LLC,vietnamese,expensive,manhattan,21:17,1,TRUE
+379,"Morissette, Emard and Lockman",italian,cheap,bronx,17:18,4,TRUE
+380,"Bogan, Jerde and Graham",american,cheap,staten,19:01,5,FALSE
+381,"Rice, Jaskolski and Pouros",chinese,expensive,staten,20:02,3,TRUE
+382,Grant Group,turkish,medium,queens,19:09,1,FALSE
+383,Klein-Block,vietnamese,expensive,bronx,19:57,5,TRUE
+384,Cronin-Kuhic,vietnamese,medium,staten,19:43,2,TRUE
+385,Barton and Sons,thai,medium,staten,18:19,4,FALSE
+386,Ullrich and Sons,chinese,cheap,bronx,17:55,1,TRUE
+387,"Konopelski, Lind and Breitenberg",japanese,expensive,bronx,18:22,1,FALSE
+388,"Cronin, Kuhlman and Wunsch",korean,expensive,bronx,19:51,5,TRUE
+389,"Rau, Nikolaus and Kunze",chinese,cheap,bronx,18:45,3,TRUE
+390,Terry LLC,french,cheap,queens,19:41,5,TRUE
+391,Ankunding-Kuhic,french,expensive,manhattan,21:45,5,TRUE
+392,Heller-Mann,japanese,expensive,manhattan,20:04,3,TRUE
+393,"Daugherty, Larkin and Krajcik",thai,cheap,bronx,19:40,5,FALSE
+394,Hammes and Sons,chinese,cheap,manhattan,19:45,3,FALSE
+395,McDermott LLC,japanese,expensive,bronx,18:16,2,TRUE
+396,Heaney and Sons,french,medium,staten,18:03,1,FALSE
+397,"DuBuque, Lesch and Ryan",french,medium,manhattan,20:36,2,FALSE
+398,Raynor-Botsford,japanese,medium,brooklyn,18:24,3,FALSE
+399,"Lebsack, Lindgren and Kerluke",chinese,expensive,brooklyn,19:44,4,FALSE
+400,"Marvin, Armstrong and Treutel",turkish,medium,staten,20:46,2,TRUE
+401,"Jones, Champlin and Parisian",italian,expensive,queens,17:05,4,TRUE
+402,Rutherford-Stamm,italian,cheap,brooklyn,21:41,2,FALSE
+403,"Schmeler, O'Reilly and Morar",vietnamese,medium,manhattan,21:57,5,FALSE
+404,Zemlak Group,french,expensive,manhattan,18:39,3,TRUE
+405,Bruen Group,japanese,medium,bronx,21:28,2,TRUE
+406,Daugherty-Quigley,italian,expensive,staten,19:16,3,TRUE
+407,"Wilkinson, McClure and Kilback",thai,cheap,manhattan,18:19,3,FALSE
+408,Smitham LLC,chinese,expensive,bronx,20:57,4,TRUE
+409,Mayert-Mertz,turkish,expensive,queens,17:16,5,FALSE
+410,Hartmann LLC,turkish,medium,bronx,17:52,5,TRUE
+411,Emard-Hauck,thai,cheap,bronx,18:40,4,TRUE
+412,Thiel LLC,japanese,expensive,bronx,18:27,4,FALSE
+413,Konopelski-Morissette,vietnamese,medium,bronx,17:06,1,TRUE
+414,Farrell-Botsford,chinese,medium,manhattan,20:23,2,FALSE
+415,"Dare, Schuppe and Becker",chinese,expensive,queens,19:33,3,FALSE
+416,Thiel Inc,korean,medium,staten,19:22,2,TRUE
+417,"McLaughlin, Vandervort and Zemlak",french,expensive,bronx,19:34,2,FALSE
+418,Collier-Balistreri,korean,expensive,bronx,19:48,2,FALSE
+419,Leffler LLC,french,medium,brooklyn,19:08,5,TRUE
+420,Stehr-Wilkinson,french,expensive,bronx,19:30,4,TRUE
+421,Considine-Schinner,chinese,cheap,bronx,19:35,2,TRUE
+422,Wisoky-Parker,french,expensive,manhattan,20:07,2,TRUE
+423,Trantow LLC,thai,cheap,manhattan,17:15,3,TRUE
+424,Mohr-Johnson,american,expensive,bronx,18:10,4,FALSE
+425,"Daugherty, Reichert and Glover",chinese,medium,queens,19:13,1,TRUE
+426,"Carroll, Rodriguez and Sanford",vietnamese,medium,queens,20:43,5,TRUE
+427,Murazik and Sons,thai,cheap,manhattan,20:44,4,TRUE
+428,"Huel, Streich and Marvin",italian,cheap,brooklyn,19:59,5,TRUE
+429,"Mann, Shields and Jerde",korean,cheap,queens,21:26,2,FALSE
+430,McGlynn Inc,vietnamese,expensive,queens,20:49,3,FALSE
+431,Upton-Hirthe,japanese,medium,bronx,19:28,4,FALSE
+432,"Kuhn, Gibson and Botsford",turkish,expensive,staten,20:48,4,TRUE
+433,"Mann, Smith and Boyle",japanese,medium,manhattan,17:28,2,FALSE
+434,Ullrich-Kuhn,italian,expensive,brooklyn,18:50,1,TRUE
+435,Kautzer-Grady,turkish,medium,queens,17:54,5,TRUE
+436,"Grady, Emmerich and Jaskolski",french,cheap,staten,20:40,4,TRUE
+437,King-Grimes,chinese,expensive,queens,17:04,2,TRUE
+438,"Tremblay, Abernathy and Crist",vietnamese,expensive,brooklyn,20:47,3,TRUE
+439,"Armstrong, Upton and Dooley",japanese,medium,brooklyn,19:36,2,TRUE
+440,Balistreri-Bode,american,expensive,brooklyn,17:54,5,FALSE
+441,"Zulauf, Rath and Cole",japanese,medium,queens,21:25,1,TRUE
+442,Leffler-Schumm,french,expensive,manhattan,19:17,2,TRUE
+443,Dickens-Will,korean,cheap,staten,20:35,4,TRUE
+444,"Ankunding, Mills and Auer",korean,expensive,staten,19:45,2,FALSE
+445,Trantow-Welch,thai,medium,bronx,20:57,3,TRUE
+446,"Kris, Windler and Satterfield",chinese,cheap,queens,21:06,4,TRUE
+447,"Mosciski, Torphy and Legros",vietnamese,expensive,brooklyn,18:58,2,FALSE
+448,"Konopelski, Feil and Stamm",french,cheap,staten,20:59,5,TRUE
+449,"Zboncak, Stokes and Koss",korean,cheap,staten,17:29,5,FALSE
+450,Hermann-Leuschke,french,medium,bronx,21:18,5,FALSE
+451,"Powlowski, Hudson and Dooley",chinese,expensive,brooklyn,19:17,5,FALSE
+452,Armstrong Group,vietnamese,medium,staten,20:11,4,FALSE
+453,Schiller-Ledner,korean,medium,queens,18:52,1,FALSE
+454,"Homenick, Harris and Conn",chinese,cheap,brooklyn,21:53,1,TRUE
+455,Brown-Rohan,american,expensive,queens,17:58,1,FALSE
+456,Dare-West,korean,expensive,queens,18:20,2,FALSE
+457,"Witting, Murray and Gleichner",turkish,medium,brooklyn,20:41,2,TRUE
+458,"Lowe, Funk and Wiza",japanese,expensive,bronx,17:51,3,FALSE
+459,Crist Inc,vietnamese,medium,bronx,21:15,5,TRUE
+460,Greenholt-Kshlerin,italian,expensive,staten,20:01,2,TRUE
+461,Smitham and Sons,korean,expensive,queens,21:16,5,FALSE
+462,"Turner, Schmitt and Fritsch",french,expensive,queens,18:54,1,TRUE
+463,Schoen-Funk,thai,expensive,brooklyn,18:06,2,FALSE
+464,Hodkiewicz-Goldner,japanese,expensive,staten,19:16,3,TRUE
+465,Russel-Hagenes,japanese,expensive,brooklyn,17:10,4,TRUE
+466,"Hodkiewicz, Schultz and Strosin",french,medium,bronx,17:00,5,TRUE
+467,Bednar and Sons,american,expensive,bronx,19:13,5,TRUE
+468,"Kuphal, Hansen and Boyer",vietnamese,cheap,brooklyn,20:48,4,FALSE
+469,Rogahn-Ratke,vietnamese,medium,staten,17:01,5,FALSE
+470,D'Amore-Olson,chinese,expensive,bronx,19:36,3,FALSE
+471,Langosh Group,french,expensive,brooklyn,17:11,1,FALSE
+472,"Gleichner, Hansen and Hermann",japanese,medium,staten,21:06,1,FALSE
+473,Herman-Hackett,vietnamese,cheap,brooklyn,18:10,5,TRUE
+474,McKenzie-Kihn,vietnamese,medium,brooklyn,17:43,4,TRUE
+475,"Effertz, Braun and Schumm",japanese,cheap,brooklyn,17:12,1,FALSE
+476,Langosh-Waelchi,chinese,cheap,bronx,19:19,1,FALSE
+477,Towne-Ritchie,korean,expensive,queens,19:38,1,FALSE
+478,"Spencer, Stamm and Hickle",chinese,expensive,brooklyn,18:15,4,FALSE
+479,Schmeler Inc,korean,cheap,queens,17:18,5,FALSE
+480,Bergstrom-Wolf,vietnamese,expensive,bronx,18:45,2,TRUE
+481,Blanda-Weissnat,thai,cheap,queens,18:29,4,TRUE
+482,Upton and Sons,turkish,cheap,brooklyn,18:58,1,TRUE
+483,"Beatty, Boyer and Padberg",japanese,cheap,bronx,20:21,2,FALSE
+484,Pfeffer-Greenholt,japanese,expensive,bronx,17:38,3,FALSE
+485,"Mayer, Kuhlman and O'Kon",thai,expensive,bronx,21:29,5,FALSE
+486,Dickinson and Sons,vietnamese,cheap,manhattan,17:18,3,FALSE
+487,"Sauer, Russel and Terry",italian,medium,staten,20:06,5,TRUE
+488,Brekke LLC,italian,cheap,staten,21:36,3,FALSE
+489,O'Kon-Dach,turkish,cheap,queens,18:41,3,FALSE
+490,Mann-Bergstrom,french,medium,staten,17:49,4,TRUE
+491,Schuppe Inc,turkish,cheap,bronx,21:31,1,FALSE
+492,Pacocha Inc,italian,expensive,bronx,21:48,1,FALSE
+493,Hegmann Group,chinese,medium,brooklyn,20:26,5,FALSE
+494,"Dach, Schmitt and Bruen",korean,cheap,queens,21:03,5,FALSE
+495,Marquardt LLC,chinese,medium,manhattan,19:48,1,TRUE
+496,Wiza-O'Hara,thai,cheap,queens,18:26,4,FALSE
+497,Swaniawski and Sons,vietnamese,cheap,staten,20:17,5,FALSE
+498,"Gleichner, Reilly and Hermann",american,medium,manhattan,19:00,4,FALSE
+499,Stamm-Gutmann,thai,medium,queens,21:20,5,FALSE
+500,"Bernhard, Kuvalis and Olson",thai,expensive,brooklyn,19:06,1,FALSE
+501,Gorczany Inc,french,medium,queens,19:16,5,FALSE
+502,McKenzie-Hyatt,french,cheap,staten,19:11,3,FALSE
+503,Towne Group,chinese,medium,brooklyn,21:17,2,TRUE
+504,"Schumm, Schamberger and Wilkinson",korean,expensive,bronx,20:19,5,FALSE
+505,Towne and Sons,italian,medium,bronx,20:26,4,FALSE
+506,"Cummings, Morar and Schmitt",turkish,expensive,brooklyn,18:35,4,FALSE
+507,McClure-Schaefer,japanese,medium,bronx,18:46,1,FALSE
+508,Larson-Conroy,american,cheap,manhattan,21:26,1,TRUE
+509,Nader LLC,chinese,cheap,brooklyn,18:28,5,FALSE
+510,"Bogisich, Veum and Nienow",chinese,expensive,queens,19:36,4,FALSE
+511,Gerhold LLC,turkish,medium,manhattan,17:29,1,FALSE
+512,Kuvalis-Koch,vietnamese,expensive,brooklyn,21:11,1,FALSE
+513,"Pacocha, Pacocha and Auer",italian,cheap,manhattan,21:27,3,FALSE
+514,Altenwerth Group,turkish,cheap,queens,18:19,3,TRUE
+515,Mosciski-Bailey,french,cheap,queens,18:04,4,FALSE
+516,Homenick LLC,italian,expensive,staten,20:22,4,FALSE
+517,Rempel-McGlynn,vietnamese,cheap,bronx,20:39,1,TRUE
+518,Strosin-Yundt,korean,expensive,staten,19:45,2,FALSE
+519,"Kertzmann, Schmidt and Morissette",japanese,expensive,brooklyn,19:44,3,TRUE
+520,Keeling LLC,vietnamese,cheap,queens,20:16,3,FALSE
+521,Baumbach Inc,thai,cheap,staten,17:27,5,FALSE
+522,Jones LLC,turkish,cheap,staten,20:10,3,TRUE
+523,Jones-Bailey,thai,cheap,manhattan,20:40,3,FALSE
+524,Ullrich-Jacobson,american,expensive,staten,20:30,3,FALSE
+525,Hammes-Bins,turkish,expensive,brooklyn,21:21,2,FALSE
+526,Kiehn and Sons,korean,cheap,brooklyn,18:42,1,FALSE
+527,Botsford Group,chinese,expensive,queens,19:50,4,TRUE
+528,"McGlynn, Treutel and Huels",italian,cheap,bronx,20:32,3,TRUE
+529,"Feest, Funk and Brown",french,expensive,manhattan,21:08,3,TRUE
+530,"Adams, Goodwin and Leffler",american,medium,queens,21:26,4,TRUE
+531,Reinger Inc,turkish,medium,brooklyn,18:57,3,FALSE
+532,Stehr Inc,italian,expensive,staten,18:43,2,FALSE
+533,Hoeger Group,chinese,expensive,bronx,17:43,3,FALSE
+534,Miller-Kirlin,american,cheap,brooklyn,19:24,3,FALSE
+535,"Casper, Predovic and Reichel",korean,cheap,manhattan,21:57,3,TRUE
+536,Corwin Group,american,medium,staten,20:18,3,FALSE
+537,Yost LLC,american,cheap,manhattan,21:16,3,FALSE
+538,Tromp-Schmeler,vietnamese,cheap,brooklyn,21:34,5,TRUE
+539,"Rohan, Parisian and Murphy",korean,medium,bronx,20:26,5,TRUE
+540,"Williamson, Feest and O'Keefe",turkish,expensive,manhattan,19:18,1,FALSE
+541,"Hilpert, Bednar and Schulist",chinese,medium,bronx,21:32,3,TRUE
+542,Connelly Inc,vietnamese,medium,bronx,20:38,1,FALSE
+543,Waelchi LLC,turkish,expensive,queens,21:08,3,FALSE
+544,Goyette-Schuster,turkish,medium,manhattan,18:02,5,TRUE
+545,Bode-Anderson,french,expensive,manhattan,20:54,5,FALSE
+546,Robel and Sons,french,expensive,manhattan,17:43,5,FALSE
+547,"Weber, Kuhn and Greenfelder",italian,cheap,brooklyn,19:14,2,FALSE
+548,Champlin-Johnson,thai,medium,brooklyn,21:38,1,FALSE
+549,"Jast, Frami and Romaguera",thai,medium,brooklyn,17:56,4,FALSE
+550,"Goyette, Rice and King",french,expensive,staten,21:28,4,TRUE
+551,White-Schaefer,vietnamese,expensive,manhattan,20:55,3,FALSE
+552,Smith-McLaughlin,thai,expensive,queens,20:50,1,TRUE
+553,Sanford and Sons,turkish,cheap,manhattan,18:08,5,FALSE
+554,Rolfson Inc,thai,cheap,bronx,17:50,5,TRUE
+555,Hartmann Group,korean,cheap,bronx,21:01,5,TRUE
+556,Rutherford-Wehner,thai,expensive,manhattan,19:52,3,FALSE
+557,Blanda-Reinger,turkish,medium,staten,17:45,4,TRUE
+558,Rodriguez-Stoltenberg,french,medium,manhattan,17:03,3,TRUE
+559,Wolff-Ferry,french,medium,brooklyn,17:38,2,TRUE
+560,"Bradtke, Wehner and Crona",japanese,cheap,bronx,18:31,3,FALSE
+561,Crooks-Russel,korean,medium,manhattan,18:53,4,FALSE
+562,Thompson LLC,italian,expensive,manhattan,18:07,3,TRUE
+563,Kub Group,korean,medium,bronx,17:49,1,TRUE
+564,"Beier, Mayert and Hodkiewicz",italian,medium,bronx,21:09,3,TRUE
+565,"Jacobi, Smith and Jaskolski",american,expensive,manhattan,21:02,2,TRUE
+566,"Nikolaus, Dickens and Baumbach",chinese,cheap,queens,21:08,3,TRUE
+567,Batz-Ebert,italian,expensive,manhattan,20:05,5,FALSE
+568,Prosacco Inc,vietnamese,medium,staten,17:14,2,TRUE
+569,Little-O'Reilly,korean,expensive,bronx,19:32,3,TRUE
+570,Hagenes-Batz,american,medium,bronx,18:51,2,TRUE
+571,Abernathy-Hansen,american,cheap,bronx,21:56,5,FALSE
+572,Sporer Group,thai,expensive,bronx,21:05,1,FALSE
+573,Beatty-Dietrich,french,medium,bronx,21:27,3,FALSE
+574,Beahan-Hackett,thai,cheap,queens,18:05,4,TRUE
+575,Rath-Goyette,korean,expensive,staten,21:59,3,FALSE
+576,Runolfsdottir-Morissette,japanese,expensive,bronx,18:51,4,TRUE
+577,Hegmann-Blanda,japanese,cheap,bronx,18:46,5,TRUE
+578,Rowe-Runolfsdottir,turkish,cheap,staten,20:58,2,TRUE
+579,Keebler-Bogan,italian,expensive,staten,20:45,3,FALSE
+580,Simonis-Bogisich,vietnamese,expensive,bronx,17:31,2,TRUE
+581,"Welch, Bayer and Lehner",american,expensive,manhattan,19:14,2,FALSE
+582,Zulauf-Reinger,vietnamese,medium,brooklyn,20:32,1,TRUE
+583,Runolfsson Group,japanese,cheap,brooklyn,20:23,2,TRUE
+584,Effertz-Terry,turkish,expensive,queens,20:12,1,FALSE
+585,"Jones, Franecki and Dooley",thai,medium,queens,17:05,1,FALSE
+586,Rosenbaum-Abbott,turkish,cheap,brooklyn,17:54,2,FALSE
+587,Goodwin Group,italian,cheap,bronx,20:45,1,FALSE
+588,Hills and Sons,italian,cheap,staten,17:12,2,FALSE
+589,"Schuppe, Hoppe and Goldner",american,expensive,queens,20:42,1,TRUE
+590,Koepp and Sons,turkish,cheap,bronx,21:14,4,FALSE
+591,"Kirlin, Von and Moen",french,medium,brooklyn,18:50,2,FALSE
+592,"Schimmel, Ledner and Anderson",vietnamese,expensive,staten,17:00,2,FALSE
+593,Flatley-Bradtke,thai,cheap,manhattan,21:00,5,TRUE
+594,Ebert-Adams,korean,cheap,manhattan,20:42,5,FALSE
+595,"Predovic, Bahringer and Breitenberg",french,cheap,manhattan,17:23,5,FALSE
+596,"Hyatt, Hoeger and Emard",italian,cheap,brooklyn,19:47,1,FALSE
+597,"Kozey, Hodkiewicz and Jaskolski",french,medium,staten,19:09,2,TRUE
+598,Dare Group,japanese,medium,bronx,17:45,3,FALSE
+599,Marquardt-Boehm,turkish,expensive,brooklyn,20:17,4,FALSE
+600,Beier-Collins,japanese,expensive,bronx,20:58,3,TRUE
+601,"Hayes, Cummerata and Conn",vietnamese,cheap,queens,20:15,2,TRUE
+602,Hackett and Sons,japanese,medium,bronx,21:49,4,TRUE
+603,"Senger, Rolfson and Johnson",korean,medium,bronx,21:35,4,FALSE
+604,Wehner and Sons,french,cheap,bronx,17:37,5,FALSE
+605,Herzog and Sons,italian,cheap,manhattan,17:37,1,TRUE
+606,Mitchell LLC,french,medium,staten,18:45,1,TRUE
+607,Turcotte-Cummings,thai,medium,manhattan,19:03,1,TRUE
+608,Ondricka-Graham,american,cheap,bronx,19:27,2,TRUE
+609,Tremblay-Runolfsdottir,french,cheap,bronx,21:29,4,FALSE
+610,Schaefer Inc,american,expensive,queens,19:45,4,TRUE
+611,O'Conner-Lynch,thai,medium,queens,18:48,5,FALSE
+612,Wuckert-Nikolaus,italian,expensive,manhattan,20:21,1,FALSE
+613,"Hackett, Price and Kunde",japanese,expensive,bronx,18:14,4,FALSE
+614,"Bednar, Von and Hahn",chinese,cheap,queens,19:21,2,TRUE
+615,Osinski-Brakus,american,expensive,queens,19:31,1,TRUE
+616,Grant Group,american,expensive,staten,20:07,5,TRUE
+617,"Kutch, Zieme and Beer",american,medium,staten,20:27,2,FALSE
+618,"Wolff, Ward and Mayert",french,cheap,brooklyn,17:12,5,FALSE
+619,"Morissette, Hartmann and Hudson",french,medium,manhattan,20:16,2,FALSE
+620,Kilback-Swift,american,expensive,bronx,19:38,5,TRUE
+621,"Kovacek, Rodriguez and Beatty",vietnamese,medium,brooklyn,18:46,1,FALSE
+622,Lueilwitz and Sons,turkish,medium,manhattan,18:04,4,FALSE
+623,Blick Group,french,cheap,brooklyn,17:10,3,TRUE
+624,Considine-Schamberger,italian,medium,staten,20:35,2,TRUE
+625,Schroeder and Sons,chinese,medium,manhattan,21:20,3,FALSE
+626,"Wuckert, Wilderman and Muller",american,medium,bronx,21:20,5,FALSE
+627,Robel-Cartwright,thai,cheap,queens,20:00,4,FALSE
+628,Donnelly-Legros,turkish,cheap,queens,18:24,5,FALSE
+629,Cronin-Yost,korean,medium,queens,21:52,4,TRUE
+630,Lang Group,turkish,expensive,queens,17:00,1,FALSE
+631,"Hand, Walter and Treutel",turkish,cheap,brooklyn,19:16,4,FALSE
+632,"Bechtelar, Jakubowski and Parker",vietnamese,expensive,manhattan,19:01,2,FALSE
+633,"Mayer, Berge and Dicki",vietnamese,medium,brooklyn,21:04,1,FALSE
+634,Walsh Group,thai,cheap,manhattan,21:06,2,FALSE
+635,Windler-Klein,korean,cheap,bronx,18:48,3,FALSE
+636,Kohler-Macejkovic,italian,cheap,manhattan,17:34,3,FALSE
+637,Bayer Group,italian,cheap,queens,17:24,1,TRUE
+638,Ziemann-Trantow,korean,medium,bronx,19:44,1,TRUE
+639,"Murazik, Prohaska and Frami",japanese,medium,bronx,21:43,3,FALSE
+640,Romaguera-Ebert,korean,medium,staten,19:51,4,TRUE
+641,Herman-Swift,french,medium,manhattan,18:58,3,TRUE
+642,Pfeffer and Sons,japanese,expensive,manhattan,19:52,5,TRUE
+643,"Frami, Cartwright and Simonis",italian,expensive,queens,18:12,1,FALSE
+644,"Lind, Thiel and Funk",italian,expensive,queens,21:19,5,TRUE
+645,Kunze Inc,thai,expensive,queens,19:22,3,FALSE
+646,"Ziemann, Waelchi and Wisozk",italian,medium,queens,18:48,4,TRUE
+647,"Lebsack, Macejkovic and Little",japanese,cheap,staten,20:57,3,TRUE
+648,Schaefer-Robel,japanese,medium,brooklyn,17:15,2,FALSE
+649,Emard-Lynch,thai,medium,brooklyn,19:56,3,FALSE
+650,"Christiansen, Streich and Goyette",japanese,expensive,bronx,19:16,1,TRUE
+651,Spencer-Gutkowski,italian,cheap,bronx,21:42,4,TRUE
+652,Renner Inc,chinese,cheap,bronx,20:17,2,FALSE
+653,Heathcote LLC,japanese,expensive,queens,21:25,1,FALSE
+654,Greenholt LLC,french,cheap,manhattan,17:37,2,TRUE
+655,Johnston-Balistreri,american,expensive,staten,18:27,3,TRUE
+656,"Boehm, Kihn and Bergnaum",american,expensive,bronx,17:57,4,TRUE
+657,Kertzmann-Wuckert,thai,expensive,brooklyn,20:51,4,TRUE
+658,"Purdy, Kovacek and Moore",american,cheap,staten,21:47,5,FALSE
+659,Treutel-Doyle,italian,cheap,queens,21:50,4,FALSE
+660,Gleason-Hoppe,korean,cheap,brooklyn,21:08,4,FALSE
+661,Cartwright-Kling,korean,expensive,brooklyn,18:14,3,FALSE
+662,Luettgen-Batz,korean,expensive,queens,21:05,2,TRUE
+663,Mayert Group,french,medium,bronx,21:16,2,TRUE
+664,Wyman-Reichert,american,expensive,staten,20:00,3,TRUE
+665,Blick-Wisoky,american,cheap,queens,18:06,5,TRUE
+666,"Bayer, Hoeger and Pagac",italian,medium,manhattan,21:56,2,FALSE
+667,"Lakin, Hayes and Hintz",french,expensive,brooklyn,20:35,1,TRUE
+668,Hartmann Inc,vietnamese,expensive,queens,18:56,1,FALSE
+669,"Lang, Koepp and Wunsch",japanese,expensive,staten,18:06,1,TRUE
+670,Koss-Kuhn,turkish,medium,brooklyn,17:50,2,TRUE
+671,"Kemmer, Oberbrunner and Keebler",korean,cheap,queens,17:10,5,TRUE
+672,"Boyer, Ferry and Block",vietnamese,expensive,brooklyn,21:04,3,FALSE
+673,"Cole, Kunde and Bergstrom",turkish,cheap,bronx,20:50,1,FALSE
+674,Jacobi-Rippin,japanese,expensive,queens,20:47,5,FALSE
+675,Mitchell and Sons,korean,cheap,manhattan,19:46,2,TRUE
+676,"Zemlak, Satterfield and Lowe",american,medium,queens,17:55,1,FALSE
+677,Hoppe LLC,italian,expensive,bronx,18:35,1,FALSE
+678,Hessel LLC,korean,cheap,bronx,19:04,3,FALSE
+679,Koss Group,american,medium,manhattan,18:53,4,FALSE
+680,Stark-Fisher,italian,expensive,staten,18:30,1,TRUE
+681,Marks Inc,french,medium,queens,21:47,2,FALSE
+682,"Yost, Hoeger and Upton",italian,medium,queens,19:29,1,FALSE
+683,Rau-Keebler,italian,cheap,brooklyn,21:05,2,TRUE
+684,Bernier-Roberts,turkish,medium,brooklyn,20:02,3,FALSE
+685,Gottlieb-Lueilwitz,italian,medium,staten,19:59,2,TRUE
+686,Hirthe LLC,thai,cheap,manhattan,19:47,1,TRUE
+687,Kihn Inc,korean,expensive,queens,19:33,1,TRUE
+688,Rogahn-Kuphal,turkish,medium,queens,17:52,4,FALSE
+689,Mayer-Bins,japanese,cheap,staten,17:53,2,FALSE
+690,Hermann and Sons,korean,expensive,bronx,20:26,5,TRUE
+691,Bergstrom-Zboncak,american,expensive,queens,20:56,2,TRUE
+692,"Jenkins, Wunsch and Buckridge",thai,cheap,manhattan,17:23,5,FALSE
+693,Boehm-Gulgowski,french,cheap,manhattan,21:00,1,FALSE
+694,"Hettinger, Keebler and Towne",italian,medium,queens,20:31,1,TRUE
+695,Kub Group,american,expensive,queens,18:51,5,FALSE
+696,Haley-Bashirian,chinese,medium,bronx,19:19,2,TRUE
+697,Rodriguez-Boyer,vietnamese,medium,brooklyn,19:00,3,TRUE
+698,Kunze-VonRueden,korean,medium,brooklyn,21:23,4,TRUE
+699,"Marks, Nienow and Wintheiser",thai,cheap,queens,19:58,2,FALSE
+700,Schmitt LLC,turkish,expensive,queens,19:44,5,FALSE
+701,"Kuvalis, Jacobson and Price",american,cheap,staten,21:19,3,TRUE
+702,Mosciski-Beahan,japanese,cheap,bronx,19:37,1,FALSE
+703,Schinner-Kiehn,thai,medium,queens,17:09,5,TRUE
+704,Jones Group,thai,expensive,staten,20:32,1,TRUE
+705,Weissnat Inc,turkish,medium,queens,20:13,1,TRUE
+706,Morar-Kihn,japanese,expensive,bronx,21:29,1,FALSE
+707,Zemlak LLC,american,cheap,staten,19:56,2,FALSE
+708,Schowalter and Sons,american,expensive,staten,17:48,3,FALSE
+709,"Wiza, Cummerata and McKenzie",turkish,cheap,manhattan,18:46,4,FALSE
+710,Berge Group,vietnamese,cheap,brooklyn,20:00,2,TRUE
+711,"Waelchi, Stiedemann and Bradtke",korean,medium,brooklyn,20:22,3,TRUE
+712,"Walsh, Grimes and Bernhard",american,expensive,bronx,18:16,2,FALSE
+713,Brakus LLC,korean,expensive,staten,17:07,4,TRUE
+714,"Zemlak, Kuvalis and Hammes",thai,expensive,queens,18:22,1,TRUE
+715,Batz-Conn,turkish,cheap,bronx,18:43,3,FALSE
+716,Mitchell LLC,japanese,medium,brooklyn,17:43,4,TRUE
+717,Schamberger Inc,chinese,cheap,manhattan,19:17,2,FALSE
+718,Hagenes Group,thai,expensive,manhattan,21:50,5,FALSE
+719,Herzog Inc,turkish,medium,queens,21:57,1,TRUE
+720,"Von, Johns and Windler",vietnamese,medium,bronx,17:52,2,TRUE
+721,Adams Group,japanese,cheap,brooklyn,18:52,5,FALSE
+722,Corkery LLC,vietnamese,medium,manhattan,20:57,5,TRUE
+723,"Zboncak, Huel and Ullrich",korean,medium,manhattan,21:12,1,TRUE
+724,Stracke-Carroll,chinese,cheap,brooklyn,17:09,5,TRUE
+725,West-Kuphal,french,expensive,staten,17:29,4,TRUE
+726,Klein-Orn,american,medium,manhattan,17:37,4,FALSE
+727,Schimmel Group,thai,expensive,bronx,18:00,3,TRUE
+728,Dach LLC,thai,medium,brooklyn,19:07,5,TRUE
+729,Kulas-Deckow,italian,cheap,queens,17:37,1,FALSE
+730,Cruickshank and Sons,turkish,cheap,brooklyn,17:11,5,TRUE
+731,Konopelski and Sons,french,cheap,brooklyn,18:19,1,FALSE
+732,Luettgen-Parisian,vietnamese,cheap,queens,18:55,1,FALSE
+733,"Hamill, Quigley and Heathcote",french,expensive,queens,20:32,5,TRUE
+734,Jacobi-Jenkins,chinese,expensive,manhattan,17:50,4,FALSE
+735,Ruecker Inc,italian,expensive,queens,21:35,4,TRUE
+736,Ernser-Lehner,thai,medium,bronx,18:29,1,TRUE
+737,"Will, Bins and Cole",french,medium,manhattan,18:36,2,FALSE
+738,Stoltenberg-Harber,korean,medium,manhattan,21:41,4,TRUE
+739,Konopelski-Russel,american,medium,bronx,18:38,4,FALSE
+740,Bosco LLC,japanese,medium,staten,18:23,1,FALSE
+741,Wisoky-Hodkiewicz,italian,medium,staten,17:52,2,TRUE
+742,Ledner-Cartwright,thai,medium,queens,17:45,3,FALSE
+743,Keebler-Raynor,american,medium,bronx,19:40,1,FALSE
+744,Walsh Inc,italian,expensive,brooklyn,19:15,1,TRUE
+745,Stamm-Kassulke,thai,medium,staten,20:49,2,FALSE
+746,"Stracke, Veum and Mitchell",thai,medium,manhattan,18:56,4,FALSE
+747,"Koelpin, Smith and Green",italian,medium,queens,21:47,4,FALSE
+748,"Wiegand, Barton and Murray",chinese,cheap,manhattan,20:12,1,TRUE
+749,"Zemlak, Gusikowski and Zieme",chinese,medium,manhattan,20:56,5,FALSE
+750,"Marvin, Conroy and Mitchell",chinese,expensive,staten,19:09,5,FALSE
+751,Lubowitz LLC,chinese,cheap,queens,19:33,1,TRUE
+752,Block LLC,turkish,cheap,staten,21:27,4,TRUE
+753,Leffler LLC,thai,medium,manhattan,18:11,5,TRUE
+754,Dooley LLC,japanese,cheap,manhattan,20:45,5,FALSE
+755,"Ledner, Pfeffer and Koepp",turkish,expensive,queens,20:26,5,FALSE
+756,"Morar, McKenzie and Wehner",vietnamese,expensive,queens,19:36,2,FALSE
+757,"Hermann, Witting and Beahan",thai,medium,queens,20:06,2,FALSE
+758,Schimmel-Muller,italian,cheap,staten,18:51,1,TRUE
+759,Herman Inc,turkish,cheap,staten,18:17,5,FALSE
+760,Jenkins Inc,vietnamese,cheap,brooklyn,19:17,1,TRUE
+761,Altenwerth and Sons,italian,expensive,queens,17:00,4,FALSE
+762,Stehr Group,vietnamese,medium,staten,17:31,4,TRUE
+763,Batz Group,korean,cheap,staten,19:07,1,TRUE
+764,Conn and Sons,japanese,cheap,staten,20:38,2,FALSE
+765,"Hahn, Lynch and Hermiston",italian,medium,queens,21:37,4,FALSE
+766,"Lubowitz, Emard and Rau",japanese,expensive,queens,21:41,2,FALSE
+767,Wilkinson-Quitzon,thai,cheap,staten,20:53,5,FALSE
+768,Macejkovic Group,italian,expensive,brooklyn,19:25,3,TRUE
+769,Padberg-Stoltenberg,turkish,medium,brooklyn,21:33,2,TRUE
+770,"Goyette, Murray and Daugherty",american,medium,queens,20:35,3,TRUE
+771,Swaniawski-Kassulke,korean,medium,manhattan,19:31,2,TRUE
+772,"Langworth, Moore and Deckow",italian,medium,bronx,17:49,1,TRUE
+773,Sporer-Mayer,chinese,cheap,brooklyn,18:50,5,FALSE
+774,"Thompson, Kulas and Emard",vietnamese,cheap,brooklyn,21:59,1,TRUE
+775,Rau and Sons,italian,expensive,manhattan,19:13,3,FALSE
+776,Gottlieb and Sons,thai,cheap,bronx,21:46,4,FALSE
+777,Hills Group,japanese,medium,queens,20:49,3,TRUE
+778,"Nitzsche, Wolff and Frami",vietnamese,expensive,brooklyn,20:22,2,TRUE
+779,Ziemann-Muller,italian,medium,manhattan,17:17,4,TRUE
+780,Sporer-Grady,thai,medium,staten,20:15,2,TRUE
+781,Powlowski-Ondricka,turkish,cheap,queens,19:45,2,TRUE
+782,Cartwright Group,chinese,expensive,brooklyn,20:27,4,FALSE
+783,"Bosco, Frami and Bahringer",french,medium,queens,18:54,5,TRUE
+784,"Douglas, Lockman and Schmeler",italian,cheap,brooklyn,21:40,3,FALSE
+785,"Vandervort, Cummerata and Koelpin",japanese,cheap,brooklyn,19:39,5,FALSE
+786,Moen Group,thai,expensive,manhattan,18:27,5,TRUE
+787,Dach-Macejkovic,thai,cheap,bronx,17:16,3,FALSE
+788,"Williamson, Grady and Walsh",vietnamese,cheap,brooklyn,20:15,1,TRUE
+789,Rosenbaum-Beatty,vietnamese,expensive,queens,17:14,4,TRUE
+790,Witting LLC,french,expensive,staten,17:34,2,FALSE
+791,"Prohaska, Hyatt and Simonis",vietnamese,expensive,staten,18:05,3,TRUE
+792,Deckow-Welch,american,medium,queens,20:00,2,FALSE
+793,Armstrong-Hansen,korean,expensive,manhattan,20:23,5,FALSE
+794,Mohr and Sons,french,expensive,queens,19:50,3,TRUE
+795,Thiel-Harvey,american,medium,queens,20:46,2,FALSE
+796,Effertz-Hettinger,japanese,cheap,brooklyn,20:15,5,FALSE
+797,"Fisher, Hyatt and Hirthe",japanese,medium,queens,21:20,1,FALSE
+798,Schuppe LLC,chinese,cheap,manhattan,20:29,4,TRUE
+799,"Batz, O'Conner and Reinger",french,cheap,bronx,19:13,5,TRUE
+800,"Luettgen, Kuhlman and Franecki",vietnamese,medium,queens,19:40,4,FALSE
+801,Rowe Inc,thai,expensive,bronx,21:01,1,TRUE
+802,Yost Inc,turkish,medium,queens,17:21,1,FALSE
+803,Auer-Schmitt,chinese,expensive,brooklyn,21:56,5,FALSE
+804,Schmitt and Sons,vietnamese,expensive,brooklyn,20:50,2,FALSE
+805,Funk-Leannon,korean,cheap,bronx,18:30,4,TRUE
+806,"Langworth, Hermiston and Bernhard",chinese,medium,staten,18:10,3,FALSE
+807,Schamberger-Ledner,american,cheap,brooklyn,20:53,5,FALSE
+808,Metz-Schaden,japanese,cheap,brooklyn,17:23,3,FALSE
+809,"Adams, Orn and Pollich",french,cheap,manhattan,18:55,4,FALSE
+810,Miller and Sons,french,cheap,queens,20:39,4,FALSE
+811,Schamberger-Gleason,vietnamese,expensive,brooklyn,17:55,5,FALSE
+812,"Ebert, O'Hara and Dooley",chinese,expensive,bronx,17:59,1,TRUE
+813,Wisozk-Hoppe,japanese,medium,bronx,18:18,4,FALSE
+814,Maggio-Howe,thai,medium,bronx,21:39,4,FALSE
+815,Funk-Casper,italian,cheap,staten,19:35,4,FALSE
+816,Auer Inc,turkish,medium,staten,21:33,4,TRUE
+817,Sauer Group,turkish,cheap,brooklyn,18:41,4,TRUE
+818,Herman Inc,thai,medium,brooklyn,18:31,1,FALSE
+819,Will Inc,japanese,cheap,bronx,21:38,4,FALSE
+820,Aufderhar Inc,american,cheap,manhattan,21:03,2,TRUE
+821,Armstrong and Sons,turkish,medium,brooklyn,18:42,5,TRUE
+822,"Upton, Runolfsson and Lockman",thai,medium,brooklyn,19:26,3,FALSE
+823,"Wuckert, Bahringer and Klein",chinese,medium,manhattan,19:50,4,FALSE
+824,Bogisich-Lubowitz,korean,cheap,bronx,18:38,3,TRUE
+825,Corkery-Koelpin,chinese,cheap,queens,17:23,3,TRUE
+826,"Prosacco, Mante and Pfeffer",japanese,cheap,queens,20:09,3,FALSE
+827,Ledner-Steuber,korean,cheap,bronx,20:10,2,TRUE
+828,Bahringer Inc,vietnamese,medium,manhattan,17:10,1,TRUE
+829,"Dach, Crooks and Watsica",vietnamese,expensive,staten,18:00,2,FALSE
+830,"Lubowitz, Kuhlman and Considine",italian,medium,manhattan,17:38,1,FALSE
+831,Kozey Inc,italian,medium,staten,17:23,2,TRUE
+832,Daugherty-Donnelly,japanese,medium,brooklyn,21:26,5,FALSE
+833,Zieme Group,japanese,cheap,queens,19:45,5,FALSE
+834,Stehr LLC,american,cheap,brooklyn,18:46,3,TRUE
+835,Hammes-Beahan,japanese,cheap,staten,19:16,3,FALSE
+836,Langworth-Gulgowski,thai,medium,brooklyn,21:42,2,FALSE
+837,Huels-Schumm,japanese,expensive,manhattan,19:02,1,FALSE
+838,"Wilderman, Pacocha and Schmitt",american,expensive,queens,21:23,2,FALSE
+839,Cruickshank-Conn,thai,expensive,manhattan,21:31,3,TRUE
+840,"Grant, Schultz and Jaskolski",thai,medium,bronx,19:03,1,TRUE
+841,Schaefer and Sons,thai,medium,bronx,20:07,4,FALSE
+842,Breitenberg Group,thai,cheap,manhattan,17:20,4,FALSE
+843,"Ortiz, Okuneva and Prohaska",american,cheap,staten,19:57,4,TRUE
+844,Smith-Huel,french,medium,staten,20:01,4,TRUE
+845,Flatley-Heaney,american,expensive,staten,18:00,4,TRUE
+846,Stamm and Sons,korean,medium,brooklyn,21:19,5,FALSE
+847,Denesik-Gusikowski,japanese,medium,manhattan,19:17,2,TRUE
+848,Zulauf and Sons,american,medium,queens,17:12,3,TRUE
+849,"Pacocha, Fadel and Paucek",thai,cheap,manhattan,17:42,1,TRUE
+850,Sauer LLC,thai,cheap,staten,20:23,1,FALSE
+851,Gusikowski-Brekke,vietnamese,cheap,brooklyn,20:38,4,TRUE
+852,Feest-Batz,korean,expensive,queens,17:48,3,TRUE
+853,Corkery-Schmitt,italian,expensive,brooklyn,20:29,4,TRUE
+854,"Marquardt, McCullough and Murazik",chinese,cheap,bronx,18:55,1,FALSE
+855,Hilpert Group,american,expensive,bronx,19:27,1,TRUE
+856,Casper-Buckridge,chinese,cheap,brooklyn,21:26,1,TRUE
+857,Bergnaum and Sons,chinese,expensive,staten,21:22,5,TRUE
+858,Bruen-Feest,american,cheap,manhattan,19:48,1,FALSE
+859,Leffler and Sons,american,expensive,bronx,17:06,2,TRUE
+860,"Cruickshank, Brakus and McDermott",vietnamese,medium,manhattan,20:09,4,FALSE
+861,Hagenes Group,japanese,cheap,staten,18:44,1,FALSE
+862,Murphy Inc,italian,cheap,staten,18:32,1,TRUE
+863,"Wolf, Stark and Muller",japanese,medium,manhattan,17:36,1,TRUE
+864,Tillman-Padberg,vietnamese,medium,bronx,18:28,5,FALSE
+865,Greenfelder-Yost,thai,medium,bronx,19:41,5,TRUE
+866,"Ritchie, Luettgen and Robel",chinese,cheap,brooklyn,18:56,4,TRUE
+867,McGlynn-McDermott,american,cheap,staten,20:58,5,TRUE
+868,Labadie-Weimann,french,medium,staten,21:38,2,FALSE
+869,Marks and Sons,american,medium,manhattan,17:37,1,TRUE
+870,"Wunsch, Murphy and Fahey",chinese,expensive,brooklyn,20:55,1,FALSE
+871,"Casper, Abshire and Berge",italian,expensive,brooklyn,20:16,1,TRUE
+872,Upton LLC,chinese,cheap,manhattan,17:03,1,FALSE
+873,"Conroy, Klocko and Thompson",american,medium,manhattan,17:19,5,FALSE
+874,Smitham-Bins,french,medium,queens,18:13,2,TRUE
+875,Heidenreich Group,italian,expensive,manhattan,20:57,2,FALSE
+876,"Medhurst, Kuhlman and Koepp",chinese,expensive,brooklyn,18:17,1,FALSE
+877,Hamill Inc,turkish,medium,manhattan,19:18,5,FALSE
+878,Kertzmann-Feil,korean,expensive,staten,21:44,5,TRUE
+879,Lubowitz Inc,italian,cheap,staten,19:12,2,TRUE
+880,"Anderson, Muller and Green",thai,cheap,brooklyn,19:54,2,TRUE
+881,Dooley-Padberg,american,medium,brooklyn,20:38,2,TRUE
+882,Bergnaum and Sons,chinese,medium,staten,19:20,3,TRUE
+883,"Sipes, Daniel and Feeney",japanese,medium,bronx,18:30,2,FALSE
+884,Kuhic-Friesen,thai,cheap,staten,18:12,1,FALSE
+885,"Kozey, Grady and Ondricka",thai,expensive,queens,20:17,3,TRUE
+886,Kautzer-Rutherford,italian,cheap,bronx,20:30,2,TRUE
+887,Fadel Group,japanese,medium,queens,20:00,1,TRUE
+888,"Kuhlman, Kub and Breitenberg",japanese,medium,brooklyn,18:20,2,FALSE
+889,Sauer-Jacobson,vietnamese,expensive,queens,18:46,2,FALSE
+890,Lind-Ryan,chinese,cheap,queens,18:13,5,FALSE
+891,"Mitchell, Marks and Williamson",turkish,medium,queens,19:33,5,TRUE
+892,Parker-Roberts,american,medium,manhattan,19:40,2,FALSE
+893,Cummings-Moore,korean,cheap,brooklyn,17:57,1,FALSE
+894,Kirlin LLC,italian,medium,bronx,21:08,4,FALSE
+895,Bernhard-Gerlach,vietnamese,expensive,staten,18:34,2,TRUE
+896,Becker-Heller,japanese,cheap,bronx,20:11,5,TRUE
+897,Doyle and Sons,korean,medium,brooklyn,19:56,2,FALSE
+898,Bins-Cummerata,french,expensive,manhattan,19:37,4,TRUE
+899,Klein Inc,korean,medium,bronx,17:26,1,TRUE
+900,"Dietrich, Zemlak and Wisoky",japanese,expensive,bronx,17:42,4,TRUE
+901,Zemlak LLC,american,expensive,bronx,21:17,4,TRUE
+902,Lynch-Carter,turkish,medium,brooklyn,17:03,2,FALSE
+903,Bartoletti-Schuster,american,cheap,bronx,19:28,4,FALSE
+904,Stehr-Toy,korean,expensive,bronx,18:14,5,TRUE
+905,Boyer Inc,chinese,expensive,queens,21:15,3,FALSE
+906,"Kiehn, Roob and Johnson",vietnamese,cheap,brooklyn,18:34,1,FALSE
+907,Dibbert Inc,thai,medium,brooklyn,20:31,5,FALSE
+908,Altenwerth-Medhurst,thai,cheap,staten,20:19,1,TRUE
+909,Armstrong-Spencer,turkish,cheap,brooklyn,17:12,3,FALSE
+910,"Yundt, Jenkins and Haag",chinese,expensive,queens,20:06,5,FALSE
+911,"Brakus, O'Hara and Toy",american,expensive,bronx,17:23,5,FALSE
+912,Murray-Wilkinson,vietnamese,medium,manhattan,17:47,2,FALSE
+913,Gorczany-Hauck,italian,cheap,manhattan,20:44,3,FALSE
+914,"Yost, Friesen and Schiller",thai,medium,manhattan,20:34,3,TRUE
+915,Langosh-Zboncak,korean,cheap,manhattan,20:28,1,FALSE
+916,Daugherty-Runolfsson,chinese,expensive,brooklyn,20:03,3,FALSE
+917,Shields Group,chinese,cheap,manhattan,21:01,2,FALSE
+918,Labadie-Schroeder,american,cheap,manhattan,20:16,5,TRUE
+919,Hackett LLC,american,expensive,staten,21:21,5,TRUE
+920,"Bradtke, Parker and Mohr",italian,expensive,queens,21:35,3,FALSE
+921,Cummings-Krajcik,chinese,cheap,brooklyn,21:24,3,FALSE
+922,Gleichner and Sons,chinese,medium,manhattan,17:57,1,TRUE
+923,Jaskolski Group,american,cheap,staten,18:50,3,FALSE
+924,Wilkinson Group,american,expensive,bronx,20:35,3,FALSE
+925,Berge LLC,french,cheap,brooklyn,18:13,3,FALSE
+926,"Jaskolski, Tromp and Purdy",chinese,medium,brooklyn,20:15,3,FALSE
+927,Abshire and Sons,thai,expensive,bronx,20:26,5,FALSE
+928,"Kertzmann, Carter and Brekke",french,cheap,staten,21:45,1,TRUE
+929,Treutel-Upton,french,expensive,manhattan,20:41,2,FALSE
+930,Waelchi-McDermott,japanese,medium,manhattan,19:43,5,FALSE
+931,Mitchell-Runolfsson,turkish,expensive,staten,19:10,3,FALSE
+932,Hickle-McKenzie,vietnamese,medium,manhattan,17:45,5,TRUE
+933,Terry-Heaney,turkish,cheap,manhattan,19:27,5,FALSE
+934,Will-Johns,thai,medium,staten,20:33,1,FALSE
+935,Hane-Herman,korean,expensive,queens,17:56,2,TRUE
+936,Turcotte-Altenwerth,french,expensive,manhattan,19:02,1,FALSE
+937,Gorczany-Hoppe,american,expensive,brooklyn,19:19,1,TRUE
+938,"Haley, Hyatt and Mraz",french,cheap,manhattan,21:39,1,FALSE
+939,Padberg-Bechtelar,french,medium,queens,21:30,1,TRUE
+940,"Osinski, Oberbrunner and Fay",french,expensive,queens,20:05,3,TRUE
+941,Maggio LLC,thai,expensive,staten,17:08,4,FALSE
+942,O'Hara Inc,italian,medium,staten,20:17,1,TRUE
+943,Williamson-Schamberger,french,expensive,bronx,19:57,4,FALSE
+944,Jacobi Inc,turkish,expensive,staten,17:17,1,TRUE
+945,Goyette-Boyer,italian,cheap,bronx,21:22,5,TRUE
+946,Cassin Group,turkish,cheap,bronx,19:39,5,TRUE
+947,"O'Kon, Hoeger and Hamill",american,cheap,brooklyn,20:06,1,TRUE
+948,Barrows-Prosacco,american,cheap,bronx,19:13,5,FALSE
+949,"Wunsch, Franecki and Larkin",american,expensive,bronx,21:11,2,FALSE
+950,Goodwin-Jaskolski,italian,cheap,bronx,18:26,2,FALSE
+951,Watsica-Padberg,chinese,cheap,manhattan,17:39,1,FALSE
+952,Durgan-Maggio,american,cheap,queens,19:17,5,FALSE
+953,"Nicolas, Conn and Haag",chinese,cheap,bronx,18:47,4,TRUE
+954,Schuppe-Tremblay,chinese,medium,bronx,17:26,2,FALSE
+955,"Bahringer, Schinner and Rodriguez",thai,cheap,brooklyn,18:46,1,FALSE
+956,Murray-Zboncak,french,expensive,manhattan,19:53,4,FALSE
+957,"Jenkins, Spinka and White",american,medium,manhattan,19:38,5,TRUE
+958,"Roberts, Yost and Crona",korean,medium,brooklyn,19:10,5,TRUE
+959,Hyatt-Kemmer,chinese,medium,manhattan,18:43,3,FALSE
+960,"Donnelly, Simonis and Kuhlman",chinese,expensive,staten,20:21,5,FALSE
+961,"Hackett, O'Hara and Franecki",chinese,expensive,queens,21:59,4,TRUE
+962,"Auer, O'Kon and Greenholt",french,expensive,queens,18:50,5,TRUE
+963,Hagenes-Ullrich,vietnamese,cheap,brooklyn,17:54,4,TRUE
+964,Durgan-Kunde,turkish,expensive,brooklyn,18:20,2,FALSE
+965,"Swaniawski, Stoltenberg and Jast",vietnamese,cheap,bronx,21:13,3,TRUE
+966,Zulauf Group,turkish,medium,bronx,21:06,4,FALSE
+967,"Keebler, Ferry and Johnston",chinese,medium,manhattan,20:37,4,FALSE
+968,Braun-Hudson,korean,medium,manhattan,21:19,4,TRUE
+969,Shields-Beier,turkish,expensive,staten,18:09,2,TRUE
+970,Tremblay-Spinka,american,medium,bronx,20:33,1,TRUE
+971,Kilback LLC,american,cheap,bronx,19:01,4,FALSE
+972,Strosin-O'Connell,chinese,cheap,manhattan,19:34,5,FALSE
+973,"Daugherty, Larkin and Mayer",japanese,cheap,brooklyn,17:26,2,TRUE
+974,"Lowe, Ryan and Ortiz",chinese,cheap,staten,18:15,1,FALSE
+975,"Rice, Grant and Cremin",chinese,cheap,manhattan,20:11,2,FALSE
+976,"Weber, Donnelly and Bednar",korean,expensive,brooklyn,18:00,5,FALSE
+977,"Langosh, Ortiz and Kerluke",italian,medium,staten,20:58,5,TRUE
+978,"Cronin, Collins and Bergnaum",french,medium,queens,19:53,3,TRUE
+979,Howell-Hyatt,italian,cheap,queens,20:54,1,FALSE
+980,"Schuppe, Kunde and Paucek",korean,expensive,manhattan,18:05,5,TRUE
+981,Hermann-Prosacco,french,expensive,staten,19:31,5,FALSE
+982,Treutel and Sons,japanese,expensive,manhattan,17:33,5,TRUE
+983,Hane-Walker,italian,expensive,brooklyn,21:19,5,TRUE
+984,Mitchell Inc,korean,medium,staten,21:21,4,FALSE
+985,"Kiehn, Skiles and Buckridge",american,cheap,manhattan,21:57,5,TRUE
+986,Smitham-Osinski,french,medium,staten,17:56,3,TRUE
+987,"Hoppe, Deckow and Blanda",turkish,cheap,brooklyn,17:43,3,FALSE
+988,Crooks Group,chinese,cheap,staten,21:26,5,TRUE
+989,Wisoky-Kshlerin,chinese,medium,brooklyn,17:00,2,FALSE
+990,Collins Group,italian,expensive,bronx,17:23,1,FALSE
+991,Senger LLC,turkish,cheap,manhattan,19:07,2,TRUE
+992,"Bednar, Batz and Wisoky",thai,cheap,staten,21:02,3,TRUE
+993,Raynor and Sons,vietnamese,expensive,bronx,17:26,5,FALSE
+994,Volkman LLC,japanese,medium,staten,17:51,5,TRUE
+995,Lehner-Braun,american,expensive,manhattan,19:42,5,TRUE
+996,Homenick Group,vietnamese,expensive,staten,17:34,1,TRUE
+997,Rippin Inc,korean,expensive,bronx,18:12,3,FALSE
+998,Kuhn LLC,korean,cheap,queens,17:15,5,FALSE
+999,Jakubowski LLC,korean,expensive,queens,21:59,4,TRUE
+1000,Kautzer-Gislason,thai,medium,manhattan,21:11,5,TRUE
