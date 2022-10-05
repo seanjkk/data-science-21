@@ -56,12 +56,19 @@ DROP TABLE temp_table;
 
 1. All cheap restaurants in a particular neighborhood
 ```sql
-SELECT name FROM restaurants WHERE price_tier="cheap" AND neighborhood="manhattan";
+SELECT name 
+FROM restaurants 
+WHERE price_tier="cheap" 
+    AND neighborhood="manhattan";
 ```
 
 2. All Thai restaurants with 3 stars or more, ordered by number of stars in descending order
 ```sql
-SELECT name FROM restaurants WHERE category="thai" AND rating>2 ORDER BY rating DESC;
+SELECT name 
+FROM restaurants 
+WHERE category="thai" 
+    AND rating>2 
+ORDER BY rating DESC;
 ```
 
 3. Find all restaurants that are open now
@@ -69,18 +76,24 @@ SELECT name FROM restaurants WHERE category="thai" AND rating>2 ORDER BY rating 
 --- I assume all the restaurants open at 10:00 AM
 --- opening_hours contains the time for when the restaurant closes
 
-SELECT name FROM restaurants WHERE opening_hours>=strftime('%H:%M', 'now') AND strftime('%H:%M', 'now')>=10:00;
+SELECT name 
+FROM restaurants 
+WHERE opening_hours>=strftime('%H:%M', 'now') 
+    AND strftime('%H:%M', 'now')>=10:00;
 ```
 
 
 4. Delete all restaurants that are not good for kids
 ```sql
-DELETE FROM restaurants WHERE kid_friendly=0;
+DELETE FROM restaurants 
+WHERE kid_friendly=0;
 ```
 
 5. Find number of restaurants in each NYC neighborhood
 ```sql
-SELECT neighborhood, COUNT(id) FROM restaurants GROUP BY neighborhood;
+SELECT neighborhood, COUNT(id) 
+FROM restaurants 
+GROUP BY neighborhood;
 ```
 
 ## Part 2: Social Media App
@@ -210,35 +223,60 @@ VALUES(
 
 4. Show 10 most recent visible messages and stories, in order of recency
 ```sql
-SELECT post FROM posts WHERE is_visible=TRUE LIMIT 10 ORDER BY post_time DESC;
+SELECT post 
+FROM posts 
+WHERE is_visible=TRUE 
+ORDER BY post_time DESC
+LIMIT 10 ;
 ```
 
 5. Show 10 most recent messages sent by particular user to particular user, in order of recency
 ```sql
-SELECT post FROM posts WHERE user_id = 1 AND recipient_id = 2 LIMIT 10 ORDER BY post_time DESC;
+SELECT post 
+FROM posts 
+WHERE user_id = 1 
+    AND recipient_id = 2 
+ORDER BY post_time DESC
+LIMIT 10;
 ```
 
 6. Make all stories that are more than 24 hours old invisible
 ```sql
-UPDATE posts SET is_visible=FALSE WHERE datediff(hour, post_time, strftime('%m%d%Y %H:%M', 'now'))>24 AND is_message=FALSE;
+UPDATE posts 
+SET is_visible=FALSE 
+WHERE datediff(hour, post_time, strftime('%m%d%Y %H:%M', 'now'))>24 
+    AND is_message=FALSE;
 ```
 
 7. Show all invisible messages and stories, in order of recency
 ```sql
-SELECT post FROM posts WHERE is_visible=FALSE ORDER BY post_time DESC;
+SELECT post 
+FROM posts 
+WHERE is_visible=FALSE 
+ORDER BY post_time DESC;
 ```
 
 8. Show the number of posts by each user
 ```sql
-SELECT user_id, COUNT(post) FROM posts GROUP BY user_id;
+SELECT user_id, COUNT(post) 
+FROM posts 
+GROUP BY user_id;
 ```
 
 9. Show the post text and email address of all posts and the user who made them within the last 24 hours
 ```sql
-SELECT posts.post, users.email, users.username FROM posts INNER JOIN users ON posts.user_id=users.id WHERE datediff(hour, posts.post_time, strftime('%m%d%Y %H:%M', 'now'))<24;
+SELECT posts.post, users.email, users.username 
+FROM posts 
+INNER JOIN users 
+    ON posts.user_id=users.id 
+WHERE datediff(hour, posts.post_time, strftime('%m%d%Y %H:%M', 'now'))<24;
 ```
 
 10. Show the email addresses of all users who have not posted anything yet
 ```sql
-SELECT users.email FROM posts LEFT JOIN users ON posts.user_id=users.id WHERE COUNT(post)=0;
+SELECT users.email 
+FROM posts 
+LEFT JOIN users 
+    ON posts.user_id=users.id 
+WHERE COUNT(post)=0;
 ```
